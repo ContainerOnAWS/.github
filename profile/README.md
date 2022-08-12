@@ -2,7 +2,7 @@
 
 ## Objectives
 
-* Compare the differences among AWS container services and IaC tools with the sample code from infrastructure provisioning and deployment.
+* Compare the differences among AWS container services and IaC tools with the sample code from infrastructure provisioning to deployment.
 * The contents will help you to choose the right service for your environment.
 
 ## Container sample project repositories
@@ -39,11 +39,11 @@
 | [jenkins-fargate-cdk](https://github.com/ContainerOnAWS/jenkins-fargate-cdk)  | 7m | Build a Jenkins on Fargate with CDK. | [![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=ContainerOnAWS_jenkins-fargate-cdk&metric=alert_status)](https://sonarcloud.io/summary/new_code?id=ContainerOnAWS_jenkins-fargate-cdk) [![Lines of Code](https://sonarcloud.io/api/project_badges/measure?project=ContainerOnAWS_jenkins-fargate-cdk&metric=ncloc)](https://sonarcloud.io/summary/new_code?id=ContainerOnAWS_jenkins-fargate-cdk) |
 | [sonarqube-fargate-cdk](https://github.com/ContainerOnAWS/sonarqube-fargate-cdk)  | 12m | Build a continuous inspection system for code quality on Fargate with SonarQube and CDK. | [![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=ContainerOnAWS_sonarqube-fargate-cdk&metric=alert_status)](https://sonarcloud.io/summary/new_code?id=ContainerOnAWS_sonarqube-fargate-cdk) [![Lines of Code](https://sonarcloud.io/api/project_badges/measure?project=ContainerOnAWS_sonarqube-fargate-cdk&metric=ncloc)](https://sonarcloud.io/summary/new_code?id=ContainerOnAWS_sonarqube-fargate-cdk) |
 | [jenkins-sonarqube-fargate-cdk](https://github.com/ContainerOnAWS/jenkins-sonarqube-fargate-cdk)  | TBD | Build Jenkins and Sonarqube on Fargate with CDK. | [![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=ContainerOnAWS_jenkins-sonarqube-fargate-cdk&metric=alert_status)](https://sonarcloud.io/summary/new_code?id=ContainerOnAWS_jenkins-sonarqube-fargate-cdk) [![Lines of Code](https://sonarcloud.io/api/project_badges/measure?project=ContainerOnAWS_jenkins-sonarqube-fargate-cdk&metric=ncloc)](https://sonarcloud.io/summary/new_code?id=ContainerOnAWS_jenkins-sonarqube-fargate-cdk) |
-
+| [jenkins-pipeline](https://github.com/ContainerOnAWS/jenkins-pipeline)  | TBD | Build Jenkins Pipelines for container | |
 
 ## Architecture
 
-<img src="https://github.com/ContainerOnAWS/cdk-eks-blueprints/blob/develop/screenshots/diagram.png?raw=true"/>
+<img src="https://github.com/ContainerOnAWS/eks-cdk-blueprints/blob/develop/screenshots/diagram.png?raw=true"/>
 
 <img src="https://github.com/ContainerOnAWS/ecs-fargate-cdk/blob/develop/screenshots/fargate-architecture.png?raw=true"/>
 
